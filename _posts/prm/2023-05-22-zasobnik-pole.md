@@ -1,6 +1,6 @@
 ---
 title: Zásobník realizovaný v poli
-date: 2023-05-04 22:29:30 -200
+date: 2023-04-05 12:29:30 -200
 layout: post
 categories: [Informační technologie, Programovací metody]
 tags: [prm, zasobnik]
