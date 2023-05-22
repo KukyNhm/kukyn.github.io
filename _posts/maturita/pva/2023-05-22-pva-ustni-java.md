@@ -8,7 +8,7 @@ tags: [pva, maturita]
 
 ### Pole - Bubble sort [zde](../../download/pva/Pole-Bubble sort.pdf)
 
-### Pole - Insert sort [zde](../../download/pva/Pole-Unsert sort.pdf)
+### Pole - Insert sort [zde](../../download/pva/Pole-Insert sort.pdf)
 
 ### Pole - Quick sort [zde](../../download/pva/Pole-Quick sort.pdf)
 
